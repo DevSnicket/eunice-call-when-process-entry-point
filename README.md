@@ -1,3 +1,5 @@
+***The functionality of this repository/package is no longer required by Eunice and has been replaced with https://github.com/DevSnicket/eunice-call-with-process-standard-streams.***
+
 # Eunice [![](https://raw.githubusercontent.com/DevSnicket/eunice-renderer/master/getSvgElementForYaml/createArrows/testcase.svg?sanitize=true)](Renderer/getSvgElementForYaml/createArrows/testcase.svg)
 
 DevSnicket Eunice is a toolkit based on the premise that unidirectional dependencies can be beneficial to structure and modularity in software. Euince's approach isn't limited to direct dependencies, but includes indirect dependencies as well.
